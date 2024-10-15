@@ -1,28 +1,6 @@
 **House Price Prediction using Linear Regression**
 **Introduction**
-This project aims to build a predictive model for estimating house prices based on various features like square footage, number of bedrooms, location, and other relevant variables. Using Linear Regression, a simple yet powerful statistical method, we aim to uncover the relationship between these features and house prices. The project is implemented in a Jupyter Notebook environment and utilizes matplotlib for data visualization.
-
-**Project Objectives**
-Data Analysis: Explore and understand the dataset to identify key features that influence house prices.
-Data Visualization: Use matplotlib to visualize relationships between variables and identify trends and patterns.
-Model Development: Develop a Linear Regression model to predict house prices based on selected features.
-Model Evaluation: Assess the model’s performance using metrics like Mean Absolute Error (MAE) and R-squared to ensure its accuracy.
-
-**Technologies Used**
-Python: The core programming language used for building the model.
-Jupyter Notebook: An interactive computing environment for developing and testing the code.
-Pandas: For data manipulation and analysis.
-NumPy: For numerical computations.
-Scikit-learn: For building the linear regression model.
-matplotlib: For data visualization and plotting.
-
-**Dataset**
-The dataset used in this project contains information on various houses, including:
-Square footage
-Number of bedrooms and bathrooms
-Location and proximity to key amenities
-Year built, and other relevant features
-The dataset is sourced from [Dataset Source], and it is cleaned and preprocessed before applying the linear regression model.
+This model uses Linear regression model using gradient descent algorithm model by minimizing squared error cost function. and plotting the points and error by matplotlib. Given the area of the house as input and price as output.
 
 **Getting Started**
 
